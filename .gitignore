@@ -2,13 +2,20 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Multi Platform Build Test - Android/[Ll]ibrary/
+/Multi Platform Build Test - Windows/[Ll]ibrary/
+/Multi Platform Build Test - Android/[Tt]emp/
+/Multi Platform Build Test - Windows/[Tt]emp/
+/Multi Platform Build Test - Android/[Oo]bj/
+/Multi Platform Build Test - Windows/[Oo]bj/
+/Multi Platform Build Test - Android/[Bb]uild/
+/Multi Platform Build Test - Windows/[Bb]uild/
+/Multi Platform Build Test - Android/[Bb]uilds/
+/Multi Platform Build Test - Windows/[Bb]uilds/
+/Multi Platform Build Test - Android/[Ll]ogs/
+/Multi Platform Build Test - Windows/[Ll]ogs/
+/Multi Platform Build Test - Android/[Uu]ser[Ss]ettings/
+/Multi Platform Build Test - Windows/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
